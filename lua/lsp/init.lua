@@ -91,6 +91,7 @@ cmp.setup {
   sources = {
     { name = 'nvim_lsp' },
     { name = 'luasnip' },
+    { name = 'orgmode' },
   },
   formatting = {
       format = lspkind.cmp_format({
