@@ -1,0 +1,8 @@
+require('settings')
+require('plugins')
+require('colors')
+require('nvim-tree-config')
+require('mappings')
+require('lsp')
+require('lualine-config')
+require('barbar-config')
